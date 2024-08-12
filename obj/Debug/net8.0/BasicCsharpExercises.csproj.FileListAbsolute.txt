@@ -1,0 +1,14 @@
+C:\projects\c#\BasicCsharpExercises\bin\Debug\net8.0\BasicCsharpExercises.exe
+C:\projects\c#\BasicCsharpExercises\bin\Debug\net8.0\BasicCsharpExercises.deps.json
+C:\projects\c#\BasicCsharpExercises\bin\Debug\net8.0\BasicCsharpExercises.runtimeconfig.json
+C:\projects\c#\BasicCsharpExercises\bin\Debug\net8.0\BasicCsharpExercises.dll
+C:\projects\c#\BasicCsharpExercises\bin\Debug\net8.0\BasicCsharpExercises.pdb
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\BasicCsharpExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\BasicCsharpExercises.AssemblyInfoInputs.cache
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\BasicCsharpExercises.AssemblyInfo.cs
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\BasicCsharpExercises.csproj.CoreCompileInputs.cache
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\BasicCsharpExercises.dll
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\refint\BasicCsharpExercises.dll
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\BasicCsharpExercises.pdb
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\BasicCsharpExercises.genruntimeconfig.cache
+C:\projects\c#\BasicCsharpExercises\obj\Debug\net8.0\ref\BasicCsharpExercises.dll
